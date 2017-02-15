@@ -11,7 +11,6 @@ public class Test {
 
 		System.out.println("master");
 
-		System.out.println("stash....");   
-
+		System.out.println("stash....");
 	}
 }

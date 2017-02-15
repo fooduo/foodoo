@@ -7,6 +7,9 @@ public class Demo {
 		System.out.println("demo_braches_1");
 		
 		System.out.println("×öbugÐÞ¸Ä!!!");
+
+		System.out.println("add stash_demo");
+
 	}
 
 }
